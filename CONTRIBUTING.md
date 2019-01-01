@@ -13,8 +13,8 @@ There are many ways you can help us make this project better. Every repository i
 - **development-needed**: This product neeeds to develop
 - **qa-needed**: This product has some bugs. QA plz
 - **documentation-needed**: This project needs document
-- **bug-high-priority**: DESCRIPTION PLACEHOLDER
-- **bug-low-priority**: DESCRIPTION PLACEHOLDER
-- **help-wanted**: DESCRIPTION PLACEHOLDER
+- **bug-high-priority**: Bug first
+- **bug-low-priority**: Bug low priority
+- **help-wanted**: HELP WANTED!!
 
 You can also help by translating documentation and reviewing open pull requests.
